@@ -94,6 +94,9 @@ margin: 0 auto;
     border-radius: 1rem;
     margin-bottom: 1rem;
 }
+#tasks .task .content{
+    flex: 1 1 0%;
+}
 #tasks .task .content .text{
     color: var(--light);
     font-size: 1.125rem;
